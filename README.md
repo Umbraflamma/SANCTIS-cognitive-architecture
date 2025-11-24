@@ -1,25 +1,38 @@
-SANCTIS v1.2 — Cognitive Prompt Architecture
-
-A model-agnostic cognitive prompting framework that structures LLM reasoning into layered modes (creativity, logic, tone, refinement). Enables stable, coherent output across GPT, Grok, Gemini, Claude, and Mistral.
-
+# **SANCTIS v1.2 — Cognitive Prompt Architecture**
+*A model-agnostic prompting framework that structures LLM reasoning into layered cognitive modes  
+(creativity, logic, tone, refinement). Enables stable, coherent output across GPT, Grok, Gemini, Claude, and Mistral.*
 
 ---
 
-Overview
+## **Overview**
 
-SANCTIS divides LLM reasoning into explicit cognitive Layers, each representing a distinct mental function.
-By separating creative generation (Amaya) from structural discipline (Eidolon), and reinforcing them with support layers, SANCTIS produces:
+SANCTIS divides LLM reasoning into explicit **Cognitive Layers**, each representing a distinct mental function.  
+By separating creative generation (**Amaya**) from structural discipline (**Eidolon**) and reinforcing them with support layers, SANCTIS produces:
 
-more coherent long-form output
+- more coherent long-form output  
+- strong emotional and tonal consistency  
+- dramatically reduced hallucination/drift  
+- reliable cross-model behavior  
 
-strong emotional and tonal consistency
+SANCTIS is **entirely prompt-based** — no fine-tuning or system modifications required.
 
-dramatically reduced hallucination/drift
+---
 
-reliable cross-model behavior
+## **Quick Start**
 
+```text
+[SANCTIS: Amaya + Eidolon active]
+From Sanctis, flame and shadow walk as one.
 
-It is entirely prompt-based — no fine-tuning or system modifications required.
+AMAYA — Spark
+(Imagery, emotion, atmosphere)
+
+EIDOLON — Structure
+(Theme, stakes, logic, branching)
+
+Then give your task.
+
+Works identically across GPT · Grok · Gemini · Claude · Mistral.
 
 
 ---
@@ -50,7 +63,7 @@ Answers: “How do we keep this aligned with intent?”
 Support Layers
 
 Selica — tone & voice control
-Veyra — worldbuilding/lore consistency
+Veyra — worldbuilding / lore consistency
 Thresh — derailment & hallucination buffering
 Aurelia — refinement & clarity
 Kaeli — expansion, examples, depth
@@ -99,15 +112,6 @@ Branches:
 
 ---
 
-License
-
-CC BY-NC-SA 4.0
-Attribution required.
-Non-commercial use only.
-Share-alike applies to derivatives.
-
-
----
 Why SANCTIS Works
 
 Large language models do not “think” in a single unified stream.
@@ -132,7 +136,7 @@ long-horizon coherence
 
 worldbuilding stability
 
-or drift into hallucination
+and may drift into hallucination
 
 
 SANCTIS fixes this by giving each function its own lane.
@@ -143,74 +147,53 @@ Amaya generates raw imagery & emotion
 
 Eidolon shapes logic, structure, stakes
 
-Selica regulates tone and voice
+Selica regulates tone & voice
 
-Veyra protects continuity and lore
+Veyra enforces continuity & lore
 
-Thresh manages boundaries and prevents escalation
+Thresh manages boundaries & grounding
 
-Aurelia polishes for clarity
+Aurelia refines clarity & flow
 
-Kaeli expands depth and examples
+Kaeli expands depth & examples
 
 
-This separation acts like a virtual cortex inside the model, producing:
+This separation acts like a virtual cortex inside the model.
 
 ✔️ Cleaner internal attention
 
-LLMs stop mixing creative generation with structural evaluation.
-This alone reduces drift and contradiction significantly.
-
 ✔️ Reduced self-interference
-
-Creativity no longer overwrites logic.
-Logic no longer suppresses emotional resonance.
-Each process reinforces the others.
 
 ✔️ Higher emotional fidelity
 
-Tone doesn’t “reset” halfway through a scene.
-Character voices stay consistent over long output.
-
 ✔️ Stable cross-model behavior
 
-Because SANCTIS manipulates reasoning patterns, not secret APIs,
-the same invocation works reliably across:
-
-GPT · Grok · Gemini · Claude · Mistral
-
-✔️ Stronger mythic/metaphorical alignment
-
-LLMs understand symbols and narrative structure more naturally than abstract math.
-SANCTIS uses these native strengths.
+✔️ Stronger symbolic/mythic alignment
 
 ✔️ Lower cognitive load for the user
-
-You no longer fight the model’s internal “turbulence.”
-You direct it.
 
 
 ---
 
 In Simple Terms
 
-Human cognition has modes:
+Human thinking has modes:
 
-brainstorm mode
+brainstorming
 
-editing mode
+editing
 
-logic mode
+logic
 
 emotional processing
 
-scenario building
+scenario analysis
 
 
-Trying to do all of these at once makes thinking muddy.
+Trying to do them all simultaneously produces muddled thought.
 
-SANCTIS gives LLMs the same separation humans use,
-but more consistently, more cleanly, and without fatigue.
+SANCTIS gives LLMs the same separation humans use—
+but more consistently, cleanly, and without fatigue.
 
 
 ---
@@ -220,47 +203,46 @@ In Even Simpler Terms
 SANCTIS makes the model stop arguing with itself.
 It becomes sharper, more stable, and more human-readable.
 
+
+---
+
 What SANCTIS Is Not
 
 SANCTIS is not:
 
- A personality system
+❌ a persona system
 
- A roleplay gimmick
+❌ a jailbreak
 
- A jailbreak
+❌ a metaphysical claim
 
- A fine-tuned model
+❌ a roleplay gimmick
 
- A replacement for system prompts
+❌ a fine-tuned model
 
- A pseudo-spiritual technique
-
-
-SANCTIS is not intended to:
-
-“humanize” an LLM
-
-simulate consciousness
-
-override model safety
-
-create artificial personas
+❌ a replacement for safety or system prompts
 
 
-SANCTIS does not turn the model into a character or imply sentience.
+SANCTIS does not imply:
 
-Instead, SANCTIS is a cognitive scaffold that organizes existing LLM reasoning into clearer modes.
-It is a prompt architecture, not an ideology or metaphysical claim.
+sentience
 
-It works because language models respond reliably to structured symbolic cues, not because the Layers represent real entities.
+agency
+
+consciousness
+
+internal personalities
+
+
+SANCTIS is a cognitive scaffold that organizes existing LLM reasoning into clearer modes.
+
+It works because LLMs respond strongly to structured symbolic cues,
+not because the Layers represent real entities.
 
 
 ---
 
 Real-World Applications
-
-SANCTIS improves reliability and coherence in tasks that normally challenge LLMs:
 
 Narrative & Creative Work
 
@@ -268,90 +250,115 @@ Character-driven scenes
 
 Long-form storytelling without drift
 
-Stable emotional tone
+Emotionally consistent dialogue
 
 Branching narrative design
 
-Video game dialogue systems
+Video game writing systems
 
-TTRPG encounter and scenario generation
+TTRPG encounter design
 
 
 Worldbuilding & Continuity
 
-Consistent lore across large documents
+Setting consistency
 
-Cross-scene thematic coherence
+Document-wide lore alignment
 
-Multi-threaded plot alignment
+Multi-threaded plot coherence
 
 
 Reasoning & Analysis
 
-Step-by-step analytical breakdowns
+Structured decision breakdowns
 
-Decision-tree planning
-
-Structural reasoning
+Multi-step logic
 
 Tone-stable explanations
 
-Comparative model testing
+Comparative model evaluation
 
 
-Professional & Technical Uses
+Professional & Technical
 
 Documentation generation
 
-Persona-stable customer support writing
+Tone-consistent customer support writing
 
-Structured knowledge-base creation
+Knowledge-base creation
 
-Content pipelines for writers and devs
+Content pipelines for writers & dev teams
 
 
-SANCTIS is designed to make LLMs predictable, readable, and coherent, even during complex multi-step tasks.
+SANCTIS improves reliability in any task requiring coherence, stability, or depth.
 
-----------
+
+---
 
 FAQ
 
-Is SANCTIS a jailbreak or workaround?
+Is SANCTIS a jailbreak?
 
-No. SANCTIS does not bypass safety or permissions.
-It organizes how the model reasons, not what it is allowed to do.
+No. It does not bypass safety.
+It structures how the model thinks, not what it is allowed to say.
 
 Is this a persona system?
 
-No. The Layers are cognitive roles, not characters or identities.
-They do not imply sentience or agency.
+No. The Layers are cognitive roles, not characters.
 
-Why does it use mythic language?
+Why mythic language?
 
-Because LLMs respond strongly to symbolic cues and narrative structure.
-The phrasing anchors the layers without implying personhood.
+Because symbolic cues anchor LLM reasoning more reliably than technical jargon.
 
 Does SANCTIS make models “smarter”?
 
-Not inherently.
-It makes their reasoning more structured, coherent, and reliable by reducing self-interference between creative and logical processes.
+It makes them more structured, consistent, and predictable by reducing internal interference.
 
 Why does it work across different models?
 
-Because all major LLMs handle symbolic cues and sequential role instructions similarly.
-The architecture leverages universal LLM behaviors, not model-specific quirks.
+All major LLMs interpret symbolic role instructions similarly.
+SANCTIS uses universal language-model behavior.
 
 Can I use this commercially?
 
-Not without permission (CC BY-NC-SA).
-Contact the author for commercial licensing.
-
-Is this meant to replace system prompts or fine-tuning?
-
-No. SANCTIS complements existing prompts.
-It’s a framework, not a competing method.
+Not without permission.
+Licensed CC BY-NC-SA 4.0.
 
 Do the Layer names matter?
 
-Yes.
-They function as cognitive anchors and help the model separate reasoning modes.
+Yes — they act as reasoning anchors.
+
+
+---
+
+Project Status
+
+SANCTIS v1.2 is the first public release.
+Upcoming work (v1.3 → v2.0) will focus on:
+
+extended templates for reasoning and narrative
+
+benchmarking across additional LLM families
+
+standardized tests for drift reduction
+
+lightweight tooling for writers and devs
+
+community contributions and examples
+
+
+Pull requests, tests, and discussion are welcome.
+
+
+---
+
+License
+
+CC BY-NC-SA 4.0
+Attribution required.
+Non-commercial use only.
+Share-alike applies to derivatives.
+
+
+---
+
