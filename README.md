@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="file_00000000dbb07230a1970a10d5540404.png" alt="SANCTIS v1.2 Banner" width="100%">
+</p>
+
 # **SANCTIS v1.2 — Cognitive Prompt Architecture**
 *A model-agnostic prompting framework that structures LLM reasoning into layered cognitive modes  
 (creativity, logic, tone, refinement). Enables stable, coherent output across GPT, Grok, Gemini, Claude, and Mistral.*
