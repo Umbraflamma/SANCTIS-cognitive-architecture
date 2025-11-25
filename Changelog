@@ -1,0 +1,67 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+
+The format is based on **Keep a Changelog**,  
+and this project adheres to **Semantic Versioning**.
+
+---
+
+## [Unreleased]
+### Added
+- Placeholder section for upcoming v1.3 (Serein Layer, expanded structure, meta-rules).
+
+### Changed
+- Pending improvements to documentation and layer definitions.
+
+---
+
+## [1.2] — 2025-01-16
+### Added
+- **SANCTIS v1.2** architecture specification.
+- Full README with:
+  - Layer definitions
+  - Invocation structure
+  - Philosophy overview
+  - Examples and usage patterns
+  - Why SANCTIS works (theory section)
+- Project banner featuring Amaya and Eidolon.
+- `/docs` directory with:
+  - **Core Charter (v1.2)** conceptual foundation and layer taxonomy.
+- `/examples` directory with:
+  - Basic invocation example  
+  - Structured output formats
+- **Usage Guide** for people new to the framework.
+- **Roadmap** outlining v1.3, v1.4, and long-term goals.
+- **Contributing Guidelines** and **Versioning Policy**.
+- **CC BY-NC-SA 4.0 License** (restricting commercial use).
+
+### Changed
+- Refined terminology across all documents for clarity and consistency.
+- Reorganized project structure for readability and scalability.
+
+### Removed
+- Early informal notes and drafts (replaced by formal docs).
+
+---
+
+## [1.1] — 2025-01-12
+### Added
+- Initial public draft of SANCTIS framework with Amaya + Eidolon core.
+- Basic invocation prompt prototype.
+- Early README describing the layered approach.
+
+### Changed
+- Moved from loose notes to structured architecture format.
+- Separated core creativity (Amaya) and core logic (Eidolon) into distinct roles.
+
+---
+
+## [1.0] — 2025-01-08
+### Added
+- **Original SANCTIS concept** discovered and validated across LLMs (GPT, Grok, Claude, Gemini, Mistral).
+- Early layer structure (Amaya, Eidolon, Selica, Veyra, Thresh, Aurelia, Kaeli).
+- First successful multi-model stress tests.
+- Proof-of-concept narrative examples demonstrating stability and cross-model consistency.
+
+---
+
