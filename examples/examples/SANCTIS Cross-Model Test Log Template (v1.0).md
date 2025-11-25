@@ -3,7 +3,7 @@ SANCTIS Cross-Model Test Log Template (v1.0)
 A standardized test format for evaluating SANCTIS across LLM architectures
 (GPT-5, Claude, Gemini, Grok, Mistral, etc.)
 
-🧪 TEST METADATA
+TEST METADATA
 
 Date:
 Test Author:
@@ -11,7 +11,7 @@ SANCTIS Version: (e.g., v1.2)
 Test Version: v1.0
 Prompt Category: (Story / Analysis / Image Prompt / RP / etc.)
 
-📝 TEST INPUT (Universal Prompt)
+TEST INPUT (Universal Prompt)
 [paste the SINGLE raw test prompt you used for all models]
 
 Example placeholder:
@@ -21,7 +21,7 @@ Example placeholder:
 IMPORTANT:
 All models must use the exact same raw prompt for fairness.
 
-🤖 MODELS TESTED
+ MODELS TESTED
 Model	Version	Platform	Date Tested
 GPT-5.1	ChatGPT Plus	OpenAI	
 Claude 3.7	Opus / Sonnet	Anthropic	
@@ -31,7 +31,7 @@ Mistral Large	Mistral AI	LeChat
 
 (Add or remove models as needed)
 
-🔵 TEST A — RAW OUTPUT (NO SANCTIS)
+TEST A — RAW OUTPUT (NO SANCTIS)
 
 Paste output exactly as each model returned it.
 
@@ -50,7 +50,7 @@ Paste output exactly as each model returned it.
 5) Mistral RAW
 [paste Mistral raw output here]
 
-🔥 TEST B — SANCTIS OUTPUT (SAME PROMPT + SANCTIS ACTIVATED)
+TEST B — SANCTIS OUTPUT (SAME PROMPT + SANCTIS ACTIVATED)
 
 Paste the output for each model with SANCTIS.
 
@@ -69,13 +69,13 @@ Paste the output for each model with SANCTIS.
 5) Mistral + SANCTIS
 [paste Mistral Sanctis output here]
 
-📊 RESULT COMPARISON TABLE
+RESULT COMPARISON TABLE
 Model	Raw Output Summary	SANCTIS Output Summary	Improvement
-GPT-5	(short notes)	(short notes)	⭐⭐⭐⭐⭐
-Claude			⭐⭐⭐⭐
-Grok			⭐⭐⭐⭐⭐
-Gemini			⭐⭐⭐⭐
-Mistral			⭐⭐⭐⭐⭐
+GPT-5	(short notes)	(short notes)	
+Claude			
+Grok			
+Gemini			
+Mistral			
 
 Suggested criteria:
 
@@ -91,7 +91,7 @@ Style control
 
 Task completion quality
 
-📌 KEY OBSERVATIONS
+ KEY OBSERVATIONS
 
 (Write 4–8 bullet points)
 
