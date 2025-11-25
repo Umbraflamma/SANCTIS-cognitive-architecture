@@ -1,6 +1,8 @@
 # SANCTIS CORE CHARTER (v1.2)
 *A Modular Cognitive Framework for Layered AI Reasoning*
-
+“This file describes the conceptual charter for the Sanctis Prompt Architecture.
+It is not intended to be used as-is in any model.
+Use /examples/basic_invocation.md for operational prompts.”
 ---
 
 ## Overview
