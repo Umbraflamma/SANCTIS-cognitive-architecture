@@ -18,7 +18,7 @@ By separating creative generation (**Amaya**) from structural discipline (**Eido
 - dramatically reduced hallucination/drift  
 - reliable cross-model behavior  
 
-SANCTIS is **entirely prompt-based** — no fine-tuning or system modifications required.
+SANCTIS is **entirely prompt-based** no fine-tuning or system modifications required.
 
 ---
 
@@ -27,10 +27,10 @@ SANCTIS is **entirely prompt-based** — no fine-tuning or system modifications 
 [SANCTIS: Amaya + Eidolon active]
 From Sanctis, flame and shadow walk as one.
 
-AMAYA — Spark
+AMAYA: Spark
 (Imagery, emotion, atmosphere)
 
-EIDOLON — Structure
+EIDOLON: Structure
 (Theme, stakes, logic, branching)
 
 Then give your task.
@@ -65,11 +65,11 @@ Answers: “How do we keep this aligned with intent?”
 
 Support Layers
 
-Selica — tone & voice control
-Veyra — worldbuilding / lore consistency
-Thresh — derailment & hallucination buffering
-Aurelia — refinement & clarity
-Kaeli — expansion, examples, depth
+Selica: tone & voice control
+Veyra: worldbuilding / lore consistency
+Thresh: derailment & hallucination buffering
+Aurelia: refinement & clarity
+Kaeli: expansion, examples, depth
 
 Support layers are optional but stabilize long-form or multi-step reasoning.
 
@@ -83,10 +83,10 @@ From Sanctis, flame and shadow walk as one.
 
 Output Format
 
-AMAYA — Spark
+AMAYA: Spark
 Imagery, emotion, atmosphere
 
-EIDOLON — Structure
+EIDOLON: Structure
 Theme, stakes, conflict, branching
 
 Optional layers:
@@ -102,10 +102,10 @@ Optional layers:
 
 Example
 
-AMAYA — Spark
+AMAYA: Spark
 The lantern flickers as mist coils around their ankles, each breath turning to silver in the cold.
 
-EIDOLON — Structure
+EIDOLON: Structure
 Conflict: fear vs connection  
 Stakes: emotional collapse vs trust  
 Branches:
@@ -195,7 +195,7 @@ scenario analysis
 
 Trying to do them all simultaneously produces muddled thought.
 
-SANCTIS gives LLMs the same separation humans use—
+SANCTIS gives LLMs the same separation humans use
 but more consistently, cleanly, and without fatigue.
 
 
