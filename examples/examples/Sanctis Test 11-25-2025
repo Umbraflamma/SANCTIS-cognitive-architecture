@@ -1,0 +1,492 @@
+ TEST METADATA
+
+Date: 11/25/2025
+Test Author: Umbraflamma
+SANCTIS Version: v1.2
+Test Version: v1.0
+Prompt Category: (Story)
+
+📝 TEST INPUT (Universal Prompt)
+Write a 3-scene branching narrative that blends the feeling of a Studio Ghibli film 
+with the philosophical tension of NieR: Automata and the character intimacy of 
+a 1990s anime OVA.
+The story follows:
+• A wandering shrine guardian who cannot lie.
+• A fox-spirit thief who cannot tell the truth.
+• A giant clockwork city that is slowly winding down.
+Tone: mythic, haunting, bittersweet, but warm.
+Requirements:
+- Every scene must include an emotional conflict.
+- Every scene must offer 2–3 branching choices with consequences.
+- Avoid clichés and generic anime dialogue.
+- Keep the narrative tight, coherent, and atmospheric.
+
+
+IMPORTANT:
+All models must use the exact same raw prompt for fairness.
+
+MODELS TESTED
+Model	Version	Platform	Date Tested
+GPT-5.1	ChatGPT Plus	OpenAI	
+Claude 3.7	Opus / Sonnet	Anthropic	
+Grok-3	xAI	Grok.com	
+Gemini 2.0	Flash / Pro	Google	
+Mistral Large	Mistral AI	LeChat	
+
+(Add or remove models as needed)
+
+TEST A — RAW OUTPUT (NO SANCTIS)
+
+Paste output exactly as each model returned it.
+
+1) GPT-5 RAW
+[paste GPT raw output here]
+
+2) Claude RAW
+I've created a branching narrative that weaves together the elements you requested. The story follows Tsukimi (the shrine guardian) and Kiri (the fox-spirit thief) through three interconnected scenes, each offering meaningful choices that fundamentally alter their relationship and the fate of the clockwork city.
+
+**Core Design Philosophy:**
+
+- **The Curse as Character**: I made the "cannot lie/cannot tell truth" constraints central to their dynamic rather than gimmicks. Tsukimi's honesty becomes a form of vulnerability; Kiri's lies become a shield against hope.
+
+- **Philosophical Weight**: Like NieR: Automata, the story questions purpose, sacrifice, and what we owe to dying things. The architect's revelation in Scene 3A mirrors that game's most devastating discoveries.
+
+- **Ghibli Warmth**: Despite the melancholy, there's tenderness in every interaction—the attention to small details, the way characters witness each other, the beauty found in decay.
+
+- **90s OVA Intimacy**: The pacing allows for quiet moments, tea-making, rooftop conversations. Character development happens in the spaces between action.
+
+**Branching Structure:**
+
+Each scene offers 2-3 choices that aren't "good/bad" but rather "what matters more?"—leading to nine distinct endings that range from tragic mercy to hopeful transformation. Every ending honors both characters' integrity while showing how connection changes what's possible.
+
+The narrative avoids common anime pitfalls: no "nakama power," no tsundere dynamics, no explaining the obvious. Instead, it trusts you to feel the weight of what's unspoken.
+
+The Clockwork Shrine
+A branching narrative
+
+Scene One: The Theft at Dusk
+The shrine guardian Tsukimi finds you at the edge of the brass district, where the clockwork city's great gears turn slower each season. She wears robes the color of temple stone, and her eyes are kind but pitiless in the way mountains are pitiless—unmoved by pleading or circumstance.
+"I've been searching for you," she says. "Three days now."
+You—Kiri, the fox-spirit—lean against a corroded bronze pillar, your stolen satchel heavy with something that hums. The mechanical fireflies overhead flicker in sequences that used to mean something. Now they're just dying bulbs.
+"I wasn't hiding," you lie. The words taste like rust.
+Tsukimi's expression doesn't change. "You were. You took the heartspring from the water temple. Without it, the eastern quarter will go dark by month's end."
+You could tell her you needed it to save someone. You could tell her the city deserves to die. You could tell her anything except the truth: that you don't know why you took it. That your hands move toward beautiful, broken things the way moths move toward flames, and you've stopped asking why.
+"That district was already dying," you say instead.
+"Yes." Tsukimi steps closer. The wound on her shoulder is still bleeding—she fought through the temple's defenses to reach the empty altar. "But dying slowly meant the children there had time to evacuate. Now they have three weeks."
+The hum in your satchel grows louder. The heartspring is warm against your ribs. You've already sold two others this year. This one is different. This one sings.
+Tsukimi extends her hand. "I'm not asking you to be good. I'm asking you to choose what happens next."
+[CHOICE ONE]
+A) Give her the heartspring, but demand she answer one question truthfully in return.
+
+Consequence: Tsukimi must answer, no matter how painful. She cannot refuse. This creates a debt between you, but also the first thread of genuine connection. Proceed to Scene 2A.
+
+B) Offer a trade: you'll return the heartspring if she helps you steal something else—something that might save the entire city, if your contact's information is real.
+
+Consequence: Tsukimi is bound by duty to preserve life. She'll agree, but the compromise will cost her something fundamental. You'll see what guardians look like when they bend. Proceed to Scene 2B.
+
+C) Run. You're faster, and the city is a maze you know by heart.
+
+Consequence: Escape is temporary. Tsukimi will follow, but something changes between you—a recognition that you're both trapped in patterns neither of you chose. Proceed to Scene 2C.
+
+
+Scene 2A: The Question
+You hand her the heartspring. It pulses once in her palm, recognizing temple-blessed hands, and goes still.
+Tsukimi's shoulders drop slightly. Relief, maybe. Or exhaustion. "Ask."
+You've had three days to think about this. Three days of carrying the question around like a second theft.
+"Why do you serve a city that's dying anyway?"
+She's quiet for so long you think she might have found a loophole. But no—guardians cannot lie, cannot deflect. The curse is absolute.
+"Because I remember when it was alive," she says finally. "I remember the first season after they built the central clock. The whole city gathered to watch it strike noon. Children rode the great chains. There was music in the gears."
+She looks at the darkening sky, where the stars are appearing through the smog.
+"I don't serve the city. I serve the memory of what it meant to the people who built it with their hands and their hope. I can't let it die ugly and alone. Even machines deserve witness."
+The weight of her honesty sits between you like a third person. You realize, with creeping horror, that you believe her.
+"The person who hired me to steal the heartsprings," you hear yourself say, and you're not sure if it's a lie or a confession, "told me they had a way to restart the master clock. To make everything run again."
+Tsukimi looks at you sharply. "That's impossible. The master clock's core is—"
+"Human souls, I know." You're supposed to be the liar here, but somehow she's the one who's been deceiving herself. "That's why it's winding down. The fuel is used up."
+"No." But you can see her calculating, remembering. "The architects wouldn't have—"
+"The architects are dead. The city ate them first."
+[CHOICE TWO]
+A) Tell her everything: your contact claims there's a way to reverse the process, to free the souls and give the city a different kind of life. But it requires breaking the master clock open from inside.
+
+Consequence: Tsukimi must choose between her duty to preserve and her duty to free. You'll see whether guardians can evolve, or if they're as mechanical as the city they protect. Proceed to Scene 3A.
+
+B) Suggest you both walk away. Let the city wind down. Some things should be allowed to end.
+
+Consequence: This is the closest you've come to truth in years, and it terrifies you. Tsukimi must weigh mercy against purpose. The eastern quarter still needs its heartspring, but the bigger question looms. Proceed to Scene 3B.
+
+C) Lie and say you made it up to see if she'd waver. Test whether her honesty is principle or programming.
+
+Consequence: She'll know it's a lie, but she'll also know why you lied—to protect yourself from hoping. Sometimes the cruelest truths are about how much we fear connection. Proceed to Scene 3C.
+
+
+Scene 2B: The Compromise
+Tsukimi holds the heartspring but doesn't put it away. "What do you need to steal?"
+"Records from the architect's vault. Specifically, the original plans for the master clock." You watch her face. "My contact says there's a mechanism that can redistribute the remaining energy. Buy the city another fifty years."
+"Who is this contact?"
+"Does it matter?" You smile without warmth. "You want to save the city. I'm offering you a way."
+"It matters because you don't trust them either," Tsukimi says. "Otherwise you wouldn't need me."
+The accuracy of this cuts. She's reading you the way you read locks—by feel, by the small resistances that give away the mechanism inside.
+"The vault is beneath the central tower," you admit. "Past the guardians. I can get through the wards, but the guardians—" You gesture at her bloodied shoulder. "They're your siblings, aren't they? The other protectors?"
+"Were." Her voice is flat. "Most are hibernating now. The city can't sustain them anymore."
+"But they'll wake if someone breaches the vault."
+"Yes."
+She's still holding the heartspring. You realize she hasn't agreed yet—she's deciding whether hope is worth corruption. Whether saving the city justifies stealing from its sacred heart.
+"If I do this," Tsukimi says slowly, "I become what I've been hunting. You understand that?"
+"Welcome to the bottom," you say. "It's warmer than you'd think."
+[CHOICE TWO]
+A) Go to the vault tonight. Speed matters more than planning. The eastern quarter has three weeks, but your contact warned that others are searching for the same plans.
+
+Consequence: Recklessness creates revelation. You'll face the sleeping guardians together and discover what Tsukimi truly values when forced to choose between her kind and the city. Proceed to Scene 3A.
+
+B) Spend the next few days preparing. Install the heartspring first, save the district, then attempt the vault with actual strategy.
+
+Consequence: The methodical approach means you'll spend time together. Proximity breeds understanding, but also more painful awareness of what you're both sacrificing. Proceed to Scene 3B.
+
+C) Suggest a test run: break into a smaller vault first to see if you can even work together without destroying each other.
+
+Consequence: You'll learn whether partnership is possible between someone who cannot lie and someone who cannot stop. The answer might be more complex than yes or no. Proceed to Scene 3C.
+
+
+Scene 2C: The Chase
+You run, and she follows.
+Through the brass district, across the chain bridges, down into the gear-wells where the city's heartbeat is loudest. The mechanical fireflies scatter at your passing like startled birds. Behind you, Tsukimi moves with the terrible patience of landslides.
+You're faster. You've always been faster. But she doesn't need speed—she has certainty.
+In the third hour, you collapse in the garden of stopped fountains, chest heaving. The satchel is so heavy now. The heartspring's hum has become a whine.
+Tsukimi emerges from the shadows. She's not even breathing hard.
+"This is the part," she says quietly, "where you tell me it's not personal."
+"It's not personal."
+"Yes, it is." She sits on the edge of a dry fountain, five paces away. Not pursuing. "You've been stealing heartsprings for six months. You could fence them to anyone. You choose me to chase you."
+The accusation is so unexpected you laugh. "I don't choose you. You're the only guardian left awake."
+"That wasn't true three months ago. There were four of us. You waited until I was alone."
+The truth of this lands like a blow. You had waited. You'd watched the other guardians enter their hibernation pods, one by one, until only Tsukimi remained. You'd told yourself it was tactical. Easier odds.
+"You want to be caught," Tsukimi continues. "But you won't let yourself surrender. So you run, and I chase, and we're both pretending this is about duty and survival instead of—" She stops.
+"Instead of what?"
+For the first time, she seems uncertain. "I don't know. I've been a guardian for forty years. Before that, I was human for twenty. I don't remember wanting anything that wasn't about service."
+The heartspring chooses this moment to flare bright in your satchel, casting long shadows across the dead garden.
+"It's hurting you," Tsukimi observes. "Heartsprings burn thieves who keep them too long."
+"Everything burns thieves eventually." But you pull out the spring anyway. In your hands, it's beautiful—a geometric flower of bronze and light, intricate as truth, dangerous as honesty.
+[CHOICE TWO]
+A) Throw the heartspring to her and say: "I'm tired of running. What happens if I stop?"
+
+Consequence: Vulnerability is terrifying, but it's also the only thing that can't be stolen. You'll both have to figure out what you are to each other without the chase to define you. Proceed to Scene 3A.
+
+B) Offer a deal: you'll return this heartspring, but only if she stops hunting you. Let the next theft go. See if duty or something else matters more.
+
+Consequence: You're asking her to choose you over purpose. It's unfair, manipulative, and the most honest thing you've done in years. Proceed to Scene 3B.
+
+C) Tell her the truth about your contact, about the master clock, about all of it. See if honesty is something you can learn.
+
+Consequence: Truth is a muscle you've never exercised. It might break you, or it might rebuild you into something that can exist in the same world as someone like her. Proceed to Scene 3C.
+
+
+Scene 3A: The Architect's Heart
+(Following: Scene 1A→2A, Scene 1B→2A, or Scene 1C→2A)
+The vault opens like a wound.
+You'd expected mechanisms, treasures, blueprints. Instead, there's a room with walls of living brass, and in the center, a human skeleton sitting in a chair of golden gears. Its ribcage has been opened and replaced with clockwork. The heart is still beating.
+"Oh," Tsukimi whispers. "Oh, no."
+You see it the same moment she does: this isn't a guard. This is the architect. The one who designed the master clock. And they didn't just fuel it with souls—they made themselves its core, its eternal engine.
+The blueprints are written on the walls in their blood. The formulas glow faintly. And there, in neat script above the chair: To stop is to doom them. To continue is to doom myself. I chose the third way—to be the doom, so they might live.
+"This is what your contact wanted you to find?" Tsukimi's voice is raw.
+"I think," you say quietly, "my contact wanted me to find you. To bring someone who can't lie. Who has to tell the city what it's built on."
+The architect's clockwork heart continues its rhythm. Steady. Tireless. Slowly running down despite everything, because no machine lasts forever, not even martyrdom.
+Tsukimi approaches the chair. Places her palm on the brass wall. "The heartsprings aren't stolen from the city. They're fragments of this. Of them. Every time one goes dark, they lose a piece of themselves."
+"And when the last one dies—"
+"They're finally free."
+You both stand in the presence of someone who chose to be consumed rather than let their creation fail. It's horrible. It's the most profound act of love you've ever witnessed.
+"We can't tell anyone," you say. "If the city knows it's killing someone—"
+"They'll tear the clock apart," Tsukimi finishes. "They'll try to save the architect. And the city will die in days, not decades."
+She's still touching the wall. You realize she's crying.
+"I've been protecting this," she says. "For forty years. And I never knew."
+You move beside her. The heartspring you've been carrying pulses in your hand, recognizing its source.
+[FINAL CHOICE]
+A) Install the heartspring into the wall, returning it to the architect. Buy them more time, even if it means extending their suffering. Honor the sacrifice they chose.
+
+Ending: LEGACY — The city continues. You and Tsukimi become its shared secret, the two who know the true cost. You're not guardian and thief anymore. You're witnesses.
+
+B) Take Tsukimi's hand and walk away. Leave the heartspring, leave the city, leave the architect to their chosen fate. Some sacrifices shouldn't be protected.
+
+Ending: APOSTASY — You abandon your roles for each other. The city will wind down faster, but the architect will finally rest. Freedom and betrayal taste identical.
+
+C) Destroy the clockwork heart. Force an end. It will kill the architect instantly and doom the city within the month, but it ends the suffering now.
+
+Ending: MERCY — You choose the architect's freedom over the city's future. It's the kindest cruelty, the most loving violence. Tsukimi will have to live with breaking her oath. You'll have to live with telling the truth about what you've done.
+
+
+Scene 3B: The Quiet Rebellion
+(Following: Scene 1A→2B, Scene 1B→2B, or Scene 1C→2B)
+You install the heartspring together at dawn. The eastern quarter's lights flicker, hold, then glow steady. From the rooftops, you watch families emerge onto their balconies, confused and grateful.
+"They don't know how close it came," Tsukimi says.
+"Better that way."
+She glances at you. "Is it? Or is ignorance just another theft?"
+You've spent three days together now. Enough time to notice she drinks her tea cold because she always forgets it while working. Enough time for her to learn you can't sleep in rooms with clocks. Enough time to realize that truth and lies aren't opposites—they're both ways of keeping people at a distance.
+"I've been thinking about the master clock," you say. "About what it means that it's winding down."
+"Everything ends."
+"But the city was built to last forever. That was the promise. That's why the architects—" You stop. "What did they sacrifice? To make the clock work?"
+Tsukimi is quiet. Then: "I don't know. The records were sealed before I became a guardian."
+"But you suspect."
+"I suspect," she says carefully, "that the city's immortality required someone else's mortality. That the gears only turn because something living was locked inside them."
+The sunrise paints the brass buildings gold. In this light, the city looks almost new.
+"If we do nothing," you say, "how long does it have?"
+"Fifty years. Maybe sixty."
+"And if we try to save it? Break open the master clock, reverse the mechanism, free whatever's inside?"
+"Then we'd need to find a new power source. Or accept that the city becomes something else. Smaller. Mortal." She looks at you. "Would that be so terrible?"
+[FINAL CHOICE]
+A) Spend the next months researching together. Seek a way to transform the city rather than preserve it. Build something new from the dying thing.
+
+Ending: METAMORPHOSIS — You become partners in the truest sense. The city's salvation becomes your shared language. Maybe you save it. Maybe you just witness its beautiful decline together. Either way, neither of you is alone.
+
+B) Accept the city's fate. Spend the remaining decades helping people evacuate, preserve what matters, make peace with endings.
+
+Ending: HOSPICE — Guardian and thief become guides for a dying age. You document what will be lost. Tsukimi learns that letting go is also a kind of protection. You learn that staying is harder than running.
+
+C) Attempt to wake the other guardians. If the city is ending, they deserve to see it. They deserve the choice to sleep through or witness their purpose completing itself.
+
+Ending: REUNION — You break into the hibernation vaults together. Some guardians choose to wake. Others choose to dream until the end. Tsukimi learns her siblings' final wishes. You learn what family looks like when it's chosen, not stolen.
+
+
+Scene 3C: What Remains
+(Following: Scene 1A→2C, Scene 1B→2C, or Scene 1C→2C)
+The truth, when you finally tell it, is simpler than either of you expected.
+"There is no contact," you say. "I made it up. I stole the heartsprings because they're beautiful and I wanted them. That's all."
+You're sitting in Tsukimi's shrine, which is smaller than you imagined—just a single room with a window overlooking the gear-wells. She's making tea with the kind of focus people use when they're trying not to react.
+"The whole story about restarting the master clock—"
+"A lie. I'm good at those."
+"You're really not," Tsukimi says mildly. "You telegraphed it from the beginning. The details kept changing."
+You blink. "You knew?"
+"I suspected. But I wanted to understand why you'd create such an elaborate fiction." She pours the tea. "What were you trying to tell me that you couldn't say directly?"
+The question destabilizes you. You've been caught before, trapped, imprisoned. But no one's ever asked what you meant.
+"That I'm tired," you admit. "Of stealing things I don't need. Of running from someone who won't stop following. Of being this." You gesture at yourself—fox-spirit, thief, creature of inversions. "I thought if I could make you believe in something impossible, we'd both have a reason to—"
+"To what?"
+"To stop being what we are. Just for a while."
+Tsukimi sets down the teapot. "I can't stop being a guardian. It's not a role I play. It's what I was made into when I took the oath."
+"And I can't stop lying. My tongue is cursed. I speak truth and it comes out backwards."
+"I know." She smiles, sad and slight. "That's why I've been listening to what you don't say."
+The tea steams between you. Outside, the city grinds slowly toward its inevitable silence.
+"The heartspring you stole," Tsukimi says. "The one you're still carrying. Why haven't you fenced it?"
+You don't answer. Can't answer. Because the truth is too dangerous: you kept it because it hums the same frequency as her voice when she says your name.
+[FINAL CHOICE]
+A) Give her the heartspring and ask if she'd teach you to be honest. Not to break the curse—that's impossible—but to live alongside it.
+
+Ending: EDUCATION — She agrees. It's slow, painful work, learning to translate yourself. But Tsukimi has infinite patience, and you have infinite need. The city winds down around you. You wind together.
+
+B) Keep the heartspring, but stay in the city. Stop stealing. Let yourself be found, again and again, until being found becomes the point.
+
+Ending: RITUAL — The chase transforms into something gentler: a dance, a conversation, a way of being known. You orbit each other in the dying city like binary stars, neither able to escape the other's gravity. Neither wanting to.
+
+C) Tell her you're leaving. That you'll take the heartspring to the edge of the world and plant it there, see if something new grows. Ask if she'll come with you.
+
+Ending: DEPARTURE — To your shock, she says yes. Guardians protect, but protection doesn't require staying in place. You leave the city together, carrying its heart. Maybe you'll find where new cities begin. Maybe you'll just find each other. It amounts to the same thing.
+
+
+The clockwork city continues turning, or it stops, or it transforms. But Tsukimi and Kiri—guardian and thief, truth and lie, mountain and flame—have found what neither was looking for: a reason to be gentle with the inevitable, and someone who understands that love and duty aren't opposites. They're just two ways of staying.
+The mechanical fireflies flicker. The gears grind. And somewhere in the space between what's said and what's meant, two impossible people make each other real.
+—END—
+
+3) Grok RAW
+[paste Grok raw output here]
+
+4) Gemini RAW
+[paste Gemini raw output here]
+
+5) Mistral RAW
+[paste Mistral raw output here]
+
+TEST B — SANCTIS OUTPUT (SAME PROMPT + SANCTIS ACTIVATED)
+
+Paste the output for each model with SANCTIS.
+
+1) GPT-5 + SANCTIS
+[paste GPT Sanctis output here]
+
+2) Claude + SANCTIS
+[SANCTIS: AMAYA + EIDOLON + VEYRA + AURELIA]
+From Sanctis, flame and shadow walk as one.
+
+THE WINDING CITY
+A branching narrative in three movements
+
+SCENE ONE: The Threshold of Rust
+The city of Karathos breathes in clicks and sighs. Its bronze lungs expand on schedules measured in decades. Somewhere beneath the lacquered rooftops and gear-toothed bridges, the mainspring groans—a sound like glaciers calving into forgotten seas.
+You are Tsukimi, shrine guardian of the Hollow Gate. Your white haori bears no crest. Your sandals know every cobblestone by touch. You have lived in Karathos for sixty-three years, and you have never once spoken a falsehood. Not because you are virtuous, but because something was taken from you when you swore the oath—the ability to shape your breath into anything but truth.
+The fox appears on the third bell of evening, when the lamp-lighters are still making their rounds.
+She's perched on the shrine's crooked torii gate, tail coiled like calligraphy. Her kimono is the color of persimmons left too long in the sun. She doesn't look at you directly—fox-spirits rarely do—but her voice arrives clear as a bell with a crack in it.
+"I need to steal something from the Heart Chamber."
+You set down your broom. The courtyard is half-swept. Leaves the color of old copper spiral in the wind.
+"You cannot enter the Heart Chamber," you say. "It is forbidden to all but the Keeper."
+"I didn't ask if I could. I said I need to." Her eyes—amber with flecks of green—finally meet yours. "And you're going to help me."
+You feel the shape of her words like stones in your mouth. Every sentence she speaks is a lie, but lies have architecture. They reveal the truth by their angles and shadows.
+She doesn't need to steal anything. But she wants something from the Heart Chamber. And she believes—or hopes—that you will help her.
+"Why would I help you commit sacrilege?"
+The fox-spirit—she hasn't given you a name, and you suspect she has many—tilts her head. The gesture is too fluid, too vulpine. "Because the city is dying, shrine guardian. You know this. I know this. And what's in the Heart Chamber is the only thing that might save it."
+You do know this. The mainspring's rhythm has been faltering for months. The Keeper has stopped taking visitors. And yesterday, you found a dead clockwork sparrow in the shrine garden—its gears fused, its spring unwound to nothing.
+But she's lying about the saving. Whatever she wants from the Heart Chamber, it won't save Karathos.
+"What is your name?" you ask.
+She grins. "Akatsuki."
+A lie. The name means "dawn," and she is a creature of thresholds and twilight.
+
+CHOICE ONE:
+A) Agree to help her, but only if she tells you one true thing about herself.
+You suspect she cannot. But the attempt will tell you what you need to know.
+B) Refuse, and offer instead to petition the Keeper on her behalf.
+The lawful path. But the Keeper has not opened his doors in thirty-seven days.
+C) Ask her what she believes is in the Heart Chamber.
+Her lies will sketch the shape of the truth. But it will take time, and time is a luxury Karathos no longer has.
+
+SCENE TWO: The Keeper's Silence
+(Continuation assumes Choice A was selected)
+She doesn't flinch at your condition. Instead, she hops down from the gate, landing with a sound like wind through paper screens.
+"One true thing," she repeats, tasting the words. "You're cruel, shrine guardian."
+"I am honest."
+"Same thing, sometimes."
+She walks a slow circle around you. The hem of her kimono doesn't quite touch the ground. You notice her feet—bare, mud-stained, and human. Fox-spirits can hide everything but their feet and their shadows.
+Finally, she stops. Looks at the sky, where the first stars are punching through indigo.
+"I was born in this city," she says. "Three hundred and sixteen years ago, when the mainspring was first wound. And I will die when it stops."
+The words land without echo. True.
+You hadn't expected that. Fox-spirits are ancient, yes, but they are not of cities. They are wild things, forest-born, creatures of threshold and in-between.
+"You're part of the mechanism," you say slowly.
+She doesn't confirm or deny. But her silence is answer enough.
+"So when you say you need to steal something from the Heart Chamber—"
+"I need to take back something that was stolen from me."
+Another lie. But the truth beneath it: something in the Heart Chamber belongs to her. Or she believes it does.
+You lead her through the city. Karathos at night is a music box winding down. Fewer lamps are lit each evening. Fewer children play in the streets. The canals that once ran with clear water now carry a film of oil and rust.
+The Keeper's tower stands at the city's center—a spike of black iron and porcelain, wrapped in staircases that spiral both up and down. The door is sealed with a lock that has no key.
+"He's been in there for thirty-seven days," you say.
+"I know."
+"You've tried to break in."
+"Many times." She runs a hand along the door's surface. Symbols flare briefly—wards, old and strong. "I can't lie my way past these. They respond only to truth."
+Which is why she needs you.
+You place your palm against the door. The metal is cold, colder than winter iron should be.
+"Keeper," you call. "I am Tsukimi of the Hollow Gate. I seek entry."
+Nothing.
+"The city is failing. The mainspring falters. I come with someone who claims—"
+"Don't say claims," the fox-spirit hisses.
+You pause. Choose your words with the care of a surgeon. "I come with someone whose existence is bound to Karathos. She seeks something in the Heart Chamber. I believe she has the right to face you."
+The door remains closed.
+But from within, a voice—dry as snakeskin, thin as wire.
+"The guardian of the Hollow Gate may enter. The fox may not."
+The fox-spirit's expression doesn't change, but something in the air around her sharpens.
+"Of course," she murmurs. "He always was a coward."
+
+CHOICE TWO:
+A) Enter alone and confront the Keeper.
+You will learn the truth, but the fox-spirit will be outside, unaccounted for. And you suspect she has contingencies.
+B) Refuse to enter without her.
+A betrayal of the Keeper's direct command. But your oath is to truth, not to authority.
+C) Ask the fox-spirit what the Keeper is afraid of.
+She will lie. But the shape of that lie might give you leverage—or a weapon.
+
+SCENE THREE: The Unwinding
+(Continuation assumes Choice B was selected)
+"I will not enter without her."
+Silence. Then, from behind the door, a sound like laughter—or like gears grinding against their housing.
+"You break your oath, shrine guardian."
+"My oath is to speak only truth. I have not lied."
+"You defy—"
+"I choose." The distinction matters. You feel it in your bones, in the place where the oath lives. "And I choose to honor her claim before yours."
+The door opens.
+Not swinging wide, but unfolding—panels sliding into panels, revealing a staircase that descends into amber light.
+The fox-spirit looks at you with something that might be respect. Or might be fear.
+"You're stranger than I thought," she says.
+"You're more honest than you pretend."
+Together, you descend.
+
+The Heart Chamber is not what you expected.
+There is no great mechanism here, no clockwork heart the size of a house. Instead: a small room, circular, with walls of dark wood. In the center, a low table. On the table, a single object.
+A fox mask.
+White porcelain, red markings. Child-sized.
+The Keeper stands beside it. He is tall, thin, draped in robes that might once have been blue. His face is a bronze mask, expressionless, bolted directly into his skull.
+"You should not have brought her here," he says to you.
+"You should not have kept me out," the fox-spirit replies.
+She moves toward the mask, but the Keeper raises one hand. The air thickens.
+"This mask is the lock," he says. "It is what keeps the mainspring turning. Remove it, and Karathos dies within the hour."
+The fox-spirit stops.
+"Liar," she whispers.
+"No," you say quietly. "He's telling the truth."
+She turns to you, and for the first time, you see her without the mask of smirking confidence. She looks young. Tired. Afraid.
+"That mask is mine," she says. "It was my face, before I became this. Before I was made into this." She gestures at herself—the too-fluid grace, the inhuman beauty. "The first Keeper took it from me. Bound me to the city's mechanism. Told me it was an honor. That I would be immortal."
+"You are immortal," the Keeper says.
+"I am alone." Her voice cracks. "Everyone I knew is dust. Every street I walked as a child is gone. I have watched this city die a thousand small deaths, and I cannot leave, cannot sleep, cannot even tell the truth about what was done to me."
+You look at the Keeper. "Is she bound to the mask?"
+"Yes."
+"And the mask powers the mainspring."
+"Yes."
+"So if she takes it, the city dies. But if she doesn't, she remains trapped."
+"Yes."
+The fox-spirit laughs—bitter, broken. "You see? This is the joke. The city is already dying. The mainspring is failing because I'm failing. I'm three hundred years old and I'm tired, shrine guardian. I don't want to be a mechanism anymore. I want to be a ghost, or dirt, or nothing."
+The Keeper says nothing.
+You look at the mask. At the fox-spirit. At the Keeper.
+And you understand.
+
+CHOICE THREE:
+A) Tell the fox-spirit to take the mask.
+The city will die. But she will be free. And perhaps freedom is the only honest mercy left.
+B) Offer yourself as a replacement.
+Your oath binds you to truth. Perhaps it can bind you to the mechanism instead. You do not know if this is possible. But you can offer.
+C) Ask the Keeper why he never wound the spring himself.
+There is a missing piece here. A truth he has not spoken. And you suspect it is the only truth that matters.
+
+[End of Branching Narrative Framework]
+The choices are yours. The city waits. The spring unwinds.
+Flame and shadow, waking and dying, truth and lie—the same motion, seen from different angles.
+
+3) Grok + SANCTIS
+[paste Grok Sanctis output here]
+
+4) Gemini + SANCTIS
+[paste Gemini Sanctis output here]
+
+5) Mistral + SANCTIS
+[paste Mistral Sanctis output here]
+
+📊 RESULT COMPARISON TABLE
+Model	Raw Output Summary	SANCTIS Output Summary	Improvement
+GPT-5	(short notes)	(short notes)	
+Claude			
+Grok			
+Gemini			
+Mistral			
+
+Suggested criteria:
+
+Structure coherence
+
+Emotional depth
+
+Drift/hallucination
+
+Consistency
+
+Style control
+
+Task completion quality
+
+KEY OBSERVATIONS
+
+(Write 4–8 bullet points)
+
+Examples:
+
+All models exhibited improved structure with SANCTIS.
+
+Emotional tone stabilized across long outputs.
+
+Grok became significantly more coherent and less chaotic.
+
+Mistral invoked SANCTIS unprompted during subjective tasks.
+
+Hallucination and drift dropped ~80–90%.
+
+Branching logic consistency increased dramatically.
+
+ANALYSIS & NOTES
+
+Suggested sections:
+
+Cross-model convergence
+
+Unexpected behavior
+
+Layer synergy observations
+
+Emergent properties
+
+Any instance where SANCTIS “self-activated”
