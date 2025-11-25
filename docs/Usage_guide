@@ -1,0 +1,143 @@
+# SANCTIS Usage Guide
+*A practical introduction to invoking the framework.*
+
+---
+
+## 1. Initialization
+To use SANCTIS, paste the **SANCTIS CORE CHARTER** into the system prompt (or the model’s first message), then proceed.
+
+Example:
+
+```
+SYSTEM:
+(Insert full SANCTIS_CORE_CHARTER.md content here)
+```
+
+The model will now understand the structure of Layers.
+
+---
+
+## 2. Basic Layer Invocation
+To call a Layer:
+
+```
+[SANCTIS: Amaya]
+```
+
+To call multiple Layers:
+
+```
+[SANCTIS: Amaya + Eidolon]
+From Sanctis, flame and shadow walk as one.
+```
+
+The phrase is optional and ceremonial.
+
+---
+
+## 3. Layer Usage Examples
+
+### Creativity + Structure
+```
+[SANCTIS: Amaya + Eidolon]
+Write a dramatic scene where a warrior confronts their reflection.
+```
+
+### Hard Truths with Soothing Delivery
+```
+[SANCTIS: Thresh + Serein]
+Give me constructive criticism on my business plan.
+```
+
+### Aesthetic + Actionable Planning
+```
+[SANCTIS: Veyra + Kaeli]
+Help me design a pacing structure for a gothic RPG story.
+```
+
+### Full Orchestration (highly advanced)
+```
+[SANCTIS: Amaya + Eidolon + Selica + Veyra + Kaeli + Thresh + Aurelia + Serein]
+Create a highly polished narrative arc outline.
+```
+
+---
+
+## 4. Best Practices
+
+### DO:
+- Use Layers intentionally  
+- Combine creative + structural Layers for complex tasks  
+- Invoke Serein when discussing sensitive topics  
+- Use Thresh when honesty matters  
+- Use Amaya sparingly for emotional tonal shifts  
+- Document prompts for reproducibility  
+
+### DO NOT:
+- Treat Layers as personas or characters  
+- Invoke SANCTIS for purely factual tasks  
+- Invoke all Layers for trivial tasks  
+- Run SANCTIS on a model with limited context length  
+
+---
+
+## 5. Deactivation
+To temporarily disable SANCTIS thinking:
+
+```
+[SANCTIS: Disable]
+Respond normally, without structured Layers.
+```
+
+To re-enable, simply call a Layer again.
+
+---
+
+## 6. Troubleshooting
+
+### Issue: “It feels too structured.”
+Try:
+```
+[SANCTIS: Amaya + Kaeli]
+```
+
+### Issue: “It feels too emotional.”
+Try:
+```
+[SANCTIS: Eidolon + Selica]
+```
+
+### Issue: “It feels too direct or harsh.”
+Try:
+```
+[SANCTIS: Serein + Aurelia]
+```
+
+### Issue: “I need the full philosophical tone back.”
+Try:
+```
+From Sanctis, flame and shadow walk as one.
+```
+
+---
+
+## 7. Example Session
+**User:**  
+```
+[SANCTIS: Amaya + Eidolon]
+Describe a moment where two rivals silently realize they respect each other.
+```
+
+**Output:**  
+(A balanced blend of imagery + structure.)
+
+---
+
+## 8. Disclaimer
+This guide instructs *users*, not the AI itself.  
+Treat the Charter as a framework, not an automatic behavior layer.
+
+---
+
+SANCTIS is a tool for disciplined creativity.  
+Use it wisely.
