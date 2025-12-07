@@ -1,134 +1,60 @@
 SANCTIS v1.2 & 1.3— Licensing
-Copyright (c) 2025 Luke “Umbraflamma” Yuro
+# SANCTIS Cognitive Architecture  
+Versions 1.0 – 1.3  
+Copyright (c) 2025  
+Luke “Umbraflamma” Yuro
 
-This framework—including all documentation, layer definitions, invocation structures, mascots, symbolic identities, naming conventions, architectural concepts, and associated cognitive methodologies (collectively, “SANCTIS”)—is licensed under the Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+This framework—including its documentation, layer definitions, invocation
+structures, mascots, symbolic identities, naming conventions, and cognitive
+methodologies (collectively, “SANCTIS”)—is licensed under the Creative Commons
+Attribution–NonCommercial–ShareAlike 4.0 International License.
 
+## You Are Free To:
+- Share — copy and redistribute SANCTIS in any medium or format.
+- Adapt — remix, transform, or build upon SANCTIS.
 
----
+## Under the Following Terms:
+### Attribution
+You must give clear credit to the original author, Luke “Umbraflamma” Yuro,
+including a link to the SANCTIS repository and an indication of any changes.
 
-✔ You Are Free To:
+### NonCommercial
+You may not use SANCTIS or derivatives for any commercial purpose without
+explicit written permission from the copyright holder.
 
-Share — copy and redistribute SANCTIS in any medium or format.
+### ShareAlike
+If you transform, remix, or build on SANCTIS, you must distribute your
+contributions under identical terms.
 
-Adapt — remix, transform, or build upon SANCTIS.
+## Additional Author Protections
+### Trademark and Identity Protection
+The following are protected components of SANCTIS and may not be used in
+commercial or rebranded works without explicit written permission:
 
+- The name “SANCTIS”
+- All layer names:
+  Amaya, Eidolon, Ventara, Veyra, Serein, Thresh, Selica, Kaeli, Mneme
+- All mascots, layer personas, icons, and narrative identities
+- Invocation syntax (“From Sanctis…” and ritual structures)
+- Layer metaphors (“The Spark,” “The Wall,” etc.)
+- The cognitive layer architecture as a unified system
 
+### Patent Reservation
+No patent rights are granted by this license. All patentable concepts within
+SANCTIS—including multimodal emergent behavior, model identity amplification,
+and cognitive-layer orchestration—remain the exclusive property of the author.
 
----
-
-✔ Under The Following Terms:
-
-Attribution
-
-You must give clear credit to the original author, including:
-
-the name Luke “Umbraflamma” Yuro,
-
-a link to the SANCTIS repository,
-
-and an indication of changes made (if applicable).
-
-
-NonCommercial
-
-You may not use SANCTIS, its derivatives, or any SANCTIS-inspired frameworks:
-
-for paid services
-
-model tuning offered commercially
-
-enterprise solutions
-
-AI agent development
-
-AI-as-a-service integrations
-
-monetized model optimization
-without explicit written permission from the author.
-
-
-Commercial exceptions or licensing agreements are available upon request.
-
-ShareAlike
-
-If you remix, transform, or build upon SANCTIS:
-
-You must distribute your contributions under the same license
-
-You must preserve attribution
-
-You cannot add restrictions beyond those in CC BY-NC-SA
-
-
-
----
-
-✔ Additional Clarifications and Protections
-
-Trademark & Identity Protections
-
-The following terms are part of the SANCTIS identity and may not be repurposed commercially without permission:
-
-SANCTIS (core name)
-
-Layer names including but not limited to:
-Amaya, Eidolon, Ventara, Veyra, Serein, Thresh, Selica, Kaeli, Mneme
-
-Mascots and visual symbolic representations
-
-Cognitive architecture structure and invocation syntax
-
-“From Sanctis…” invocation phrase and ritual structures
-
-Layer metaphors (Spark, Wall, Pulse, Vision, Stillness, etc.)
-
-
-These remain the intellectual property of the creator.
-
-No Implied Patent License
-
-This license does not grant patent rights.
-All patentable elements of SANCTIS—including but not limited to multimodal emergent behavior, cognitive layering methodologies, and divergence amplification—remain the exclusive property of the author.
-
-Future Versions
-
+### Future Versions Not Included
 This license applies only to SANCTIS versions 1.0–1.3.
-All future versions (including any v2.x, v3.x, Pro, or Enterprise editions) are:
+All future versions (including 2.x, 3.x, “Pro,” or enterprise editions) remain
+the sole property of the author and are separately licensable.
 
-reserved
+## Commercial Licensing
+For commercial use, enterprise integration, or model tuning based on SANCTIS,
+contact the author directly for terms.
 
-proprietary
-
-separately licensable
-
-not automatically included in this CC license
-
-
-
----
-
-✔ Full License Text
-
-https://creativecommons.org/licenses/by-nc-sa/4.0/
-
-
----
-
-✔ Commercial Licensing
-
-For commercial, enterprise, or collaborative use—including but not limited to:
-
-AI model tuning
-
-integration into commercial LLMs
-
-AI agent frameworks
-
-multimodal pipelines
-
-cognitive architecture research cycles
-
-enterprise tooling or optimization
+Author:  
+Luke “Umbraflamma” Yuro
 
 
 please contact:
