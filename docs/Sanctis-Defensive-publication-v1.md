@@ -1,10 +1,13 @@
-SANCTIS v1.3 – A Layered Cognitive Architecture for Emergent LLM Reasoning, Self-Selection Dynamics, and Multimodal Activation
+# SANCTIS v1.3 – A Layered Cognitive Architecture for Emergent LLM Reasoning, Self-Selection Dynamics, and Multimodal Activation
 
 Defensive Publication / Prior Art Disclosure
 
 Author: Luke “Umbraflamma” Yuro
+
 Original Public Release: 2025-11-25
+
 Copyright: Creative Commons BY-NC-SA 4.0
+
 This document constitutes prior art and is intended to prevent the patenting of the described methods.
 
 
