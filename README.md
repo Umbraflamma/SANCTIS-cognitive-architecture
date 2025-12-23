@@ -391,7 +391,7 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 👤 Attribution
 
 Created by: umbraflamma
-X/Twitter: <@134482597030920192>21
+X/Twitter: https://x.com/Umbraflamma21
 GitHub: https://github.com/Umbraflamma/SANCTIS-cognitive-architecture/tree/main
 
 If you use SANCTIS in research or publication, attribution is appreciated.
