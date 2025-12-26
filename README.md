@@ -5,7 +5,7 @@ A model-agnostic reasoning framework that structures LLM cognition into layered 
 Enables stable, coherent, cross-model output across GPT · Grok · Gemini · Claude · Mistral.
 
 <p align="center">
-  <img src="https://github.com/Umbraflamma/SANCTIS-cognitive-architecture/blob/main/v1-4%20banner.png" alt="SANCTIS Banner" width="100%">
+  <img src="https://github.com/Umbraflamma/SANCTIS-cognitive-architecture/blob/main/file_0000000097b8722fa7e0fc85f620c427.png" alt="SANCTIS Banner" width="100%">
 </p>
 ---
 
