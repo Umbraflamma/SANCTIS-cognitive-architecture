@@ -333,23 +333,3 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 ---
 
 ⭐ End of README.md
-
-
----
-
-If you'd like the next components of the release package:
-
-LICENSE file
-
-NOTICE file
-
-Architecture diagram (SVG)
-
-Whitepaper abstract
-
-Developer quickstart
-
-Changelog
-
-
-Just say: “Next section.”
