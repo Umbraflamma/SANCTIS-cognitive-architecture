@@ -2,7 +2,7 @@
 
 "From Sanctis, flame and shadow walk as one."
 
-<img src="https://github.com/Umbraflamma/SANCTIS-cognitive-architecture/blob/main/v%201-93.png" width="400">
+<img src="https://github.com/Umbraflamma/SANCTIS-cognitive-architecture/blob/main/v%201-93.png" width="100%">
 
 ---
 
