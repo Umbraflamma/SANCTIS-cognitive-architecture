@@ -1,6 +1,6 @@
 # SANCTIS v2.0 — Cognitive Architecture
 
-<img src="https://github.com/Umbraflamma/SANCTIS-cognitive-architecture/blob/main/v%201-93.png" width="100%">
+<img src="https://github.com/Umbraflamma/SANCTIS-cognitive-architecture/blob/main/file_00000000001c71fdb9c58cb6bb9da20a.png" width="100%">
 
 "From Sanctis, flame and shadow walk as one."
 
