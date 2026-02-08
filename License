@@ -1,6 +1,6 @@
-SANCTIS v1.2, 1.3, 1.4, 1.5, 1.6, 1.93 2.0, and 2.5— Licensing
+SANCTIS v1.2, 1.3, 1.4, 1.5, 1.6, 1.93 2.0, 2.5, and 3.0— Licensing
 # SANCTIS Cognitive Architecture  
-Versions 1.0 – 2.5  
+Versions 1.0 – 3.0  
 Copyright (c) 2025-2026  
 Luke “Umbraflamma” Yuro
 
@@ -32,12 +32,12 @@ The following are protected components of SANCTIS and may not be used in
 commercial or rebranded works without explicit written permission:
 
 - The name “SANCTIS”
-- All layer names:
+- All layer/mode names:
   Amaya, Eidolon, Ventara, Veyra, Serein, Thresh, Selica, Kaeli, Mneme, and more.
-- All mascots, layer personas, icons, and narrative identities
+- All mascots, layer/mode "personas," icons, and narrative identities
 - Invocation syntax (“From Sanctis…” and ritual structures)
-- Layer metaphors (“The Spark,” “The Wall,” etc.)
-- The cognitive layer architecture as a unified system
+- Layer/mode metaphors (“The Spark,” “The Wall,” etc.)
+- The cognitive layer/mode architecture as a unified system
 
 ### Patent Reservation
 No patent rights are granted by this license. All patentable concepts within
@@ -45,9 +45,12 @@ SANCTIS—including multimodal emergent behavior, model identity amplification,
 and cognitive-layer orchestration—remain the exclusive property of the author.
 
 ### Future Versions Not Included
-This license applies only to SANCTIS versions 1.0–2.5.
-All future versions (including 3.x, “Pro,” or enterprise editions) remain
+This license applies only to SANCTIS versions 1.0–3.0.
+All future versions (including 3.X, “Pro,” or enterprise editions) remain
 the sole property of the author and are separately licensable.
+
+## Research and Evaluation
+Non-commercial research, evaluation, and analysis of SANCTIS are explicitly permitted, provided such use is conducted in good faith and not for the purpose of rebranding, reproducing, or circumventing the author’s protected IP.
 
 ## Commercial Licensing
 For commercial use, enterprise integration, or model tuning based on SANCTIS,
@@ -60,5 +63,5 @@ Luke “Umbraflamma” Yuro
 please contact:
 
 Luke “Umbraflamma” Yuro
-Wdragon92190@gmail.com
+SanctisCS@Gmail.com
 for formal licensing terms, fees, and partnership arrangements.
