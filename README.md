@@ -1,6 +1,6 @@
 ## SANCTIS v3.0 — Cognitive Architecture for Stable Transformer Reasoning
 
-<img src="https://github.com/Umbraflamma/SANCTIS-cognitive-architecture/blob/main/sanctis%202-5%20banner.png?raw=true" width="100%">
+<img src="https://github.com/Umbraflamma/SANCTIS-cognitive-architecture/blob/main/file_00000000429471f591e632643c6231d4.png" width="100%">
 
 A narrative-technical framework for coherence, clarity, and structured cognition.
 
