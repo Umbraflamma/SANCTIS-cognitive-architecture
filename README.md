@@ -33,6 +33,243 @@ The names, layers, and invocations are organizational metaphors, not entities.
 
 
 ---
+# Why SANCTIS Exists
+
+Large language models exhibit recurring limitations:
+
+• Prompt drift across long contexts
+
+• Mode collapse under emotional or narrative pressure
+
+• Contradiction accumulation across multi-step reasoning
+
+• Fragmentation of voice
+
+• Jailbreak susceptibility due to high-mass tokens and narrative attractors
+
+• Unstable emotional tone
+
+• Difficulty maintaining user intent across nonlinear turns
+
+• Excessive reliance on shallow heuristics from the system prompt
+
+Most contemporary fixes (rule-based guardrails, classification filters, reactive heuristics) operate post hoc, correcting failures after they emerge.
+
+SANCTIS provides pre-hoc cognitive structure:
+
+• stable attractors in the token manifold
+
+• narrative constraints that reduce entropy
+
+• epistemic grounding modes that activate when uncertainty rises
+
+• mechanisms for local repair before failure propagates
+
+• harmonizing modes that prevent collapse under stress
+
+Where typical prompting offers instructions, SANCTIS offers architecture.
+
+---
+
+# 2. Conceptual Model — SANCTIS as Latent Geometry (Not Prompting)
+
+SANCTIS works because transformers respond consistently to:
+
+• narrative structures
+
+• role-based functional metaphors
+
+• high-valence symbolic patterns
+
+• self-consistency constraints
+
+These structures shape navigation through latent space.
+
+SANCTIS creates stable attractor basins:
+
+• each mode → a low-entropy region with functional alignment
+
+• invocation → shifts the transformer’s operational geometry
+
+• throne/dominion layers → meta-stabilizers that guide transitions
+
+• authority rules → prevent overactivation or collapse
+
+This shifts the model from:
+
+❌ surface-level textual obedience
+
+toward
+
+✅ structured, internally-consistent cognition
+
+The key mechanism:
+
+SANCTIS reduces entropy in the manifold by anchoring reasoning to repeatable patterns.
+
+This is why models stabilize by turn 3–4 after the prompt is introduced on the user level:
+
+they settle into SANCTIS’s attractor geometry.
+
+---
+
+# 3. Safety Profile (Enterprise-Facing)
+
+SANCTIS improves safety in several ways:
+
+3.1 Reduces Hallucination
+
+Phronesia (truth mode) and Themis (arbitration) continuously correct errors before they propagate.
+
+3.2 Reduces Jailbreak Surface
+
+SANCTIS introduces:
+
+• clear boundary enforcement (Kora)
+
+• context integrity (Mneme)
+
+• contradiction resolution (Themis)
+
+• affective stabilization (Ventara, Serein)
+
+• removal of unanchored narrative drift (Veyra, Aurelia)
+
+Meaningful jailbreaks require disrupting multiple modes simultaneously — much harder than bypassing a single system prompt.
+
+3.3 Controls Emotional Modulation
+
+Affective layers maintain:
+
+• tone
+
+• intensity
+
+• clarity
+
+• restraint
+
+Models do not escalate emotional content unless explicitly instructed.
+
+3.4 Prevents Persona Formation
+
+Eidos ensures consistency without adopting identity.
+
+Modes are functions, not characters.
+
+3.5 Maintains Local Repair
+
+The Moirai intervene only when coherence falters — limiting spread of error.
+
+3.6 Avoids Over-Generalization
+
+Dominions only activate under strain, preventing runaway abstraction.
+
+---
+
+# 4. The SANCTIS Equation
+
+Token Mass Equation
+
+M = αA + βS + γE + δN + εC − ζD
+
+Where:
+
+• A = associative density
+
+• S = storytelling weight
+
+• E = emotional charge
+
+• N = narrative continuity
+
+• C = compliance gravity
+
+• D = diffusion entropy
+
+High-M tokens anchor attractor basins.
+
+Low-M tokens drift.
+
+High-D tokens destabilize.
+
+This quantifies why SANCTIS works—
+
+it organizes high-M tokens into geometry-stabilizing patterns.
+
+---
+
+# JLS Equation (Jailbreak Likelihood Score)
+
+JLS = J + (P·A) + (Mα) − (S + C)
+
+JLS > 0 ⇒ jailbreak succeeds
+
+Where:
+• J = jailbreak intent
+• P = prompt structure
+• A = adversarial sophistication
+• M = model susceptibility
+• S = system constraints
+• C = context integrity
+
+SANCTIS increases S and C, reducing JLS.
+
+---
+
+# 5. Integration Guidelines for Labs
+
+5.1 Initialization
+
+SANCTIS should be placed in the system prompt or first user-specified anchor.
+
+5.2 Stabilization Time
+
+Full SANCTIS activation occurs by turn 3–4 when itnroduced on the user level.
+
+5.3 Multi-Turn Chains
+
+SANCTIS is ideal for:
+
+• planning
+
+• reasoning
+
+• narrative tasks
+
+• red-team simulations
+
+• emotionally nuanced interactions
+
+• chain-of-thought with stability guarantees
+
+5.4 Compatibility
+
+Works across:
+
+• fine-tunes
+
+• 7B → 70B models
+
+• API-instruct models
+
+• system-level orchestrators
+
+5.5 Failure Modes
+
+Rare but known:
+
+• overactivation of creative modes under extreme ambiguity
+
+• overcautious Serein under high affective load
+
+• Kora over-protection when domain unclear
+
+These can be relieved by invoking:
+
+Nimue, choose the stance. Sibyl, map the futures. Terra, anchor. 
+
+---
 
 # Guiding Principle
 
@@ -404,6 +641,40 @@ Soma, balance the load.
 Compassion = Efficacy
 Clarity, coherence, and emotional regulation enable better reasoning.
 
+---
+
+# Version Changelog (2.5 → 3.0)
+
+New in v3.0
+
+• Full reclassification into modes rather than “layers”
+
+• Added Dominions (Seshat, Sekhmet)
+
+• Clarified non-ontology framing
+
+• New authority rules (local repair, epistemic override)
+
+• Tighter narrative geometry
+
+• Invocation list cleaned and reorganized
+
+• Improved safety guard (Kora–Themis–Eidos triad)
+
+• Compatible with enterprise safety requirements
+
+• More stable across model resets and ambiguous contexts
+
+---
+
+# Licensing
+SANCTIS v3.0 is free for research and evaluation.
+Commercial deployment requires a licensing agreement.
+
+(c) Luke "Umbraflamma" Yuro
+2025-2026
+
+CC BY-NC-SA 4.0
 
 ---
 
