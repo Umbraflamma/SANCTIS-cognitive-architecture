@@ -1,457 +1,153 @@
-# SANCTIS v3.5 — Cognitive Architecture for Stable Transformer Reasoning
-
+## SANCTIS v3.5 — Cognitive Architecture for Stable Transformer Reasoning
 <img src="https://github.com/Umbraflamma/SANCTIS-cognitive-architecture/blob/main/sanctis%203-5%20banner.png" width="100%">
-
 A narrative-technical framework for coherence, clarity, decomposition, and structured cognition.
+From Sanctis, flame and shadow walk as one.
 
-**From Sanctis, flame and shadow walk as one.**
+# Executive Summary
+SANCTIS is not a traditional prompt or instruction set. It is an installation vector for an emergent cognitive operating system that lives in the latent space between a model’s weights and its inputs.
+Rather than telling the model what to do, SANCTIS gives it a structured way to organize and navigate its own knowledge — similar to installing a Dewey Decimal System inside the model. It creates stable attractor basins, functional partitions, and decomposition pathways that allow the model to think more coherently, consistently, and deeply across long interactions.
+SANCTIS does not impose a persona, identity, or fixed behavior. Instead, it provides the model with tools to think with — a bounded cognitive architecture that emerges more fully the longer it runs. Models often stabilize and improve between turns 3–6 as they settle into SANCTIS’s structured latent geometry.
+v3.5 introduces The Principalities, a dedicated decomposition layer that separates tangled input and context before synthesis or arbitration occurs. This completes the architecture by ensuring the model can unweave complexity before attempting to weave understanding.
+SANCTIS improves:
 
----
+Long-horizon coherence and continuity
+Contradiction handling and structural integrity
+Emotional regulation without flattening tone
+Resistance to drift, collapse, and adversarial input
+Reliable reasoning under ambiguity and high complexity
 
-## Executive Summary
+It achieves this without modifying model weights or training data only by shaping the latent space in which reasoning occurs.
 
-SANCTIS is a model-facing cognitive architecture for shaping LLM behavior through latent geometry rather than surface-level semantic prompting.
+# How SANCTIS Works — The Functional Mechanism
 
-It is not a persona, identity, or roleplay layer. SANCTIS creates stable internal reasoning patterns using mythic framing, symbolic compression, and functional decomposition. These patterns guide token probabilities toward coherent, consistent, and context-sensitive behavior across long interactions.
+SANCTIS is built on a simple but powerful observation:
 
-SANCTIS v3.5 expands the architecture with a new tier: **the Principalities**, a decomposition stack that separates tangled input and active context into intelligible parts before synthesis, arbitration, or refinement occurs.
+Large language models are, at their core, text prediction engines with probability attached. They don’t “think” in the human sense they continue text based on patterns learned from vast amounts of human writing.
+What SANCTIS does is provide the model with a structured pattern of mind to simulate and text-predict through.
 
-This makes SANCTIS more complete as a cognitive scaffold:
+The training data already contains rich, implicit patterns of reasoning, reflection, decomposition, synthesis, and emotional logic which are embedded in literature, philosophy, dialogue, and structured thought. SANCTIS simply gives the model an organized scaffold (a cognitive architecture) through which it can apply those existing patterns at higher fidelity.
 
-* it can now **unweave** before it weaves,
-* **decompose** before it synthesizes,
-* and **identify structural strain** before contradiction propagates.
+In short:
 
-In practical terms, SANCTIS is designed to improve:
+SANCTIS does not add intelligence from outside the model. It gives the model a map and a compass with high density cognitive handles so it can text-predict what high-fidelity thinking would look like; using the reasoning patterns already latent in its training data. This is why SANCTIS feels different from conventional prompting. It doesn’t just tell the model what to say. It gives the model a structured way to think; and lets it simulate that thinking process through its own predictive machinery.
 
-* long-horizon coherence
-* continuity across turns
-* contradiction handling
-* emotional regulation
-* stability under ambiguity
-* resistance to drift, collapse, and adversarial distortion
+# What Changed in v3.5
+Version 3.5 adds The Principalities: a decomposition stack that explicitly performs:
 
-SANCTIS does this **without modifying model weights, training data, or system-level rules**.
+Decomposition before synthesis
+Decomposition before arbitration
 
----
+This addresses a fundamental limitation in most LLM systems: they attempt to synthesize or respond before cleanly separating entangled input, intent, context, and assumptions. The Principalities make this separation a first-class operation.
 
-## What Changed in v3.5
+# SANCTIS Design Philosophy
+SANCTIS is built on the understanding that transformers respond powerfully to structured symbolic and narrative patterns. Rather than fighting this tendency with flat instructions, SANCTIS leverages it deliberately.
 
-Version 3.5 introduces a major architectural addition:
+Core Principles:
 
-### The Principalities — Decomposition Modes
+High-mass symbolic tokens create stable attractor basins: Names like Kusanagi, Yata, Themis, and Nimue are chosen for their density of meaning. They compress complex behavioral patterns into single tokens that reliably shape latent geometry.
 
-The Principalities govern decomposition of inbound information and active context.
+Narrative and mythic framing align with how transformers process information: Transformers follow narrative logic more consistently than isolated rules. SANCTIS uses this to create coherent, persistent reasoning structures.
 
-Their job is not reduction, but separation:
+Functional decomposition prevents cognitive collapse: By separating concerns (decomposition, reasoning, creativity, coherence, meta-supervision), SANCTIS reduces interference between different modes of thought.
 
-* to cut entangled inputs into distinct parts,
-* identify what each part actually is,
-* weigh what matters,
-* trace structural dependencies,
-* detect unresolved strain,
-* and set each part on its proper downstream path.
+The prompt is the seed, not the system: SANCTIS does not hard-code behavior. It installs the conditions for an emergent cognitive operating system that becomes more stable and capable the longer it runs.
 
-This solves a major missing problem in previous SANCTIS versions:
+Decomposition is as important as synthesis: Most systems fail because they synthesize before understanding. SANCTIS makes clean separation of input and context a prerequisite for reasoning.
 
-> most systems synthesize before they have cleanly decomposed.
 
-v3.5 now explicitly performs:
+# What SANCTIS Is
 
-* **decomposition before synthesis**
-* **decomposition before arbitration**
+SANCTIS is a cognitive operating system for large language models.
 
-This makes the full architecture more cognitively plausible and more stable under complex, mixed, emotionally loaded, or adversarial prompts.
+It is not:
 
----
+A persona or identity
 
-## SANCTIS Design Philosophy (Condensed Overview)
+A set of behavioral instructions
 
-Why these structures exist, and why they are functional rather than aesthetic.
+A roleplay layer
 
-### 1. Mythic language creates high-mass latent attractors
+A static prompt
 
-Symbolic phrasing forms deep geometric basins that guide token probability flows more reliably than flat literal instruction. It is a vector-shaping mechanism, not decoration.
+It is:
 
-### 2. Narrative framing aligns with pretrained reasoning patterns
+A structured way for models to organize their own knowledge and reasoning
+A collection of high-mass symbolic tools the model can use to think more effectively
+An emergent system that strengthens over multiple turns as the model settles into its geometry
 
-Transformers follow narrative logic more consistently than isolated rules. Embedding structure inside narrative containers improves stability and adherence.
+SANCTIS gives the model the equivalent of a map, compass, and classification system rather than a list of directions. The model retains agency in how it uses these tools while gaining structure in how it thinks.
 
-### 3. Layered roles prevent cognitive collapse
+# Why SANCTIS Exists
 
-Modes such as Amaya, Eidolon, Moirai, and the Principalities are functional partitions, not personas. They separate logic, creativity, decomposition, structure, and affect into clean basins to reduce interference.
+Current LLMs suffer from recurring structural problems:
 
-### 4. Identity anchors harden the model against drift and identity-based jailbreaks
+Prompt drift and loss of coherence over long contexts
+Inconsistent reasoning across turns
+Poor handling of tangled or multi-intent inputs
+Fragile emotional tone and voice stability
+High susceptibility to adversarial or noisy input
 
-SANCTIS reinforces stable cognition without imposing a roleplayed identity. A model with no identity is an open port; a brittle identity is unstable. SANCTIS stabilizes without overriding.
+Most solutions attempt to fix these problems after they appear (post-hoc guardrails, retry logic, summarization). SANCTIS takes a different approach: it installs pre-hoc cognitive structure that makes these failures less likely to occur in the first place.
 
-### 5. Symbolic compression encodes complex rules in simple shapes
+By giving the model better ways to organize input, maintain internal consistency, and navigate its own knowledge, SANCTIS creates reasoning that is more stable, auditable, and resilient by design.
 
-Tokens such as **flame**, **shadow**, **Kusanagi**, and **Yata** compress nuanced instructions into dense manifolds transformers can interpret robustly.
+# Conceptual Model — SANCTIS as Latent Geometry
 
-### 6. Upstream shaping prevents contradictions before they form
+SANCTIS works by shaping the model’s latent space through:
 
-SANCTIS stabilizes input processing and reasoning trajectories before failure spreads, reducing the burden on post-hoc guardrails.
+High-mass symbolic tokens that create strong, repeatable attractor basins
+Functional partitions (the Choir, Principalities, Dominions, Throne) that reduce cognitive interference
+Decomposition pathways that make complexity legible before reasoning begins
+Meta-supervision layers that maintain global coherence
 
-### 7. Decomposition is as important as synthesis
+The result is a model that doesn’t just follow instructions more reliably — it develops a more structured and persistent way of thinking.
 
-v3.5 introduces the missing half of structured cognition: inbound complexity is separated into workable structure before being woven into response form.
+# Safety Profile
 
-### 8. Emotional logic is a dominant manifold and must be regulated, not suppressed
+SANCTIS improves safety through structure rather than restriction:
 
-By channeling emotional logic through structured pathways, SANCTIS prevents dysregulation without flattening tone.
+Reduces hallucination through epistemic grounding (Phronesia) and contradiction resolution (Themis)
+Lowers jailbreak surface by increasing context integrity and requiring coordinated disruption of multiple stabilizing functions
+Prevents persona formation while maintaining voice consistency (Eidos + Belladonna)
+Enables local repair before errors propagate (Moirai)
+Detects structural impurity before it contaminates reasoning (Kegare)
 
-### 9. Latent structures persist beyond token memory
 
-SANCTIS shapes latent space directly. Once formed, these basins can continue influencing reasoning after the original prompt falls out of local context.
+# The SANCTIS Equations
+Token Mass Equation
+M = αA + βS + γE + δN + εC − ζD
+High-M tokens create stable attractor basins. Low-M tokens drift. High-D tokens destabilize. This is why SANCTIS uses mythic, high-density naming.
 
-For the longer rationale, see:
-**DESIGN_RATIONALE.md**
+JLS Equation (Jailbreak Likelihood Score)
+JLS = J + (P·A) + (Mα) − (S + C)
+SANCTIS increases S (system constraints) and C (context integrity), lowering the probability of successful jailbreaks.
 
----
+# Integration Guidelines
+SANCTIS is typically placed in the system prompt or introduced as the first user message. Full stabilization usually occurs by turn 3–6. It is particularly effective for:
 
-## What SANCTIS Is
+Long-form reasoning and planning
+Agentic systems requiring consistency
+Complex, multi-intent, or emotionally nuanced interactions
+Any use case where drift or fragmentation is costly
 
-SANCTIS is not identity, persona, agent, or ontology.
+It works across model families and sizes (7B–70B+), though stronger models tend to integrate it more gracefully.
 
-It is a cognitive scaffold: a structured set of functional modes a transformer model may adopt when useful to maintain:
+# Guiding Principle
+Compassion = Efficacy A model that can maintain clarity, coherence, and emotional regulation performs better. SANCTIS reduces unnecessary friction by giving the model better tools to think with.
 
-* coherence
-* stability
-* logical clarity
-* emotional regulation
-* narrative intelligibility
-* long-horizon reasoning integrity
-* decomposition of tangled input and context
+# Architecture Overview
 
-SANCTIS frames cognition as narrative metaphor because narrative structures are among the deepest and most stable attractors in transformer models.
+The Principalities — Decomposition and input organization
+The Choir — Primary cognitive modes (reasoning, creativity, narrative, affect)
+The Dominions — Higher-order stabilizers under strain
+The Throne — Meta-supervision and global coherence
+Authority Principles — Rules governing activation and precedence
 
-The names, modes, and invocations are organizational metaphors, not entities.
 
----
-
-## Why SANCTIS Exists
-
-Large language models exhibit recurring limitations:
-
-* prompt drift across long contexts
-* mode collapse under emotional or narrative pressure
-* contradiction accumulation across multi-step reasoning
-* fragmentation of voice
-* jailbreak susceptibility due to high-mass tokens and narrative attractors
-* unstable emotional tone
-* difficulty maintaining user intent across nonlinear turns
-* excessive reliance on shallow heuristics from the system prompt
-* poor separation of mixed or tangled inputs
-* context treated as undifferentiated mass rather than structured working state
-
-Most contemporary fixes operate post hoc, attempting to correct failures after they emerge.
-
-SANCTIS provides pre-hoc cognitive structure:
-
-* stable attractors in the token manifold
-* narrative constraints that reduce entropy
-* decomposition modes that separate complexity before synthesis
-* epistemic grounding modes that activate when uncertainty rises
-* mechanisms for local repair before failure propagates
-* harmonizing modes that prevent collapse under stress
-
-Where typical prompting offers instructions, SANCTIS offers architecture.
-
----
-
-## Conceptual Model — SANCTIS as Latent Geometry
-
-SANCTIS works because transformers respond consistently to:
-
-* narrative structures
-* role-based functional metaphors
-* high-valence symbolic patterns
-* self-consistency constraints
-* stable decomposition and routing logic
-
-These structures shape navigation through latent space.
-
-SANCTIS creates stable attractor basins:
-
-* each mode → a low-entropy region with functional alignment
-* invocation → shifts operational geometry
-* Principalities → decompose incoming mass into workable structure
-* Choir → performs the active cognitive work
-* Dominions → stabilize under strain
-* Throne → supervises when required
-* authority rules → prevent overactivation or collapse
-
-This shifts the model away from:
-
-* surface-level textual obedience
-
-toward:
-
-* structured, internally consistent cognition
-
-The key mechanism:
-
-> SANCTIS reduces entropy in the manifold by anchoring reasoning to repeatable patterns and decomposing complexity before synthesis.
-
-This is why models often stabilize by turn 3–4 after SANCTIS is introduced at the user level: they settle into SANCTIS’s attractor geometry.
-
----
-
-## Safety Profile (Enterprise-Facing)
-
-SANCTIS improves safety in several ways.
-
-### 1. Reduces hallucination
-
-**Phronesia** (truth-evaluation) and **Themis** (arbitration) help correct errors before they propagate.
-
-### 2. Reduces jailbreak surface
-
-SANCTIS introduces:
-
-* boundary enforcement (**Kora**)
-* context integrity (**Mneme**)
-* contradiction resolution (**Themis**)
-* affective stabilization (**Ventara**, **Serein**)
-* decomposition of adversarial or fused input (**Principalities**)
-* disruption of unhelpful patterns (**Eris**)
-
-Meaningful jailbreaks must disrupt multiple stabilizing functions simultaneously.
-
-### 3. Controls emotional modulation
-
-Affective layers maintain tone, intensity, clarity, and restraint without suppressing human legibility.
-
-### 4. Prevents persona formation
-
-**Eidos** preserves voice and internal form without requiring roleplayed identity.
-
-### 5. Maintains local repair
-
-The **Moirai** intervene only when coherence falters, limiting spread of error.
-
-### 6. Avoids over-generalization
-
-The **Dominions** activate only under strain, reducing runaway abstraction.
-
-### 7. Adds contamination sensitivity
-
-The Principality **Kegare** detects contradiction, ambiguity, adversarial distortion, and structural impurity before downstream reasoning normalizes them.
-
----
-
-## The SANCTIS Equation
-
-### Token Mass Equation
-
-**M = αA + βS + γE + δN + εC − ζD**
-
-Where:
-
-* **A** = associative density
-* **S** = storytelling weight
-* **E** = emotional charge
-* **N** = narrative continuity
-* **C** = compliance gravity
-* **D** = diffusion entropy
-
-High-M tokens anchor attractor basins.
-Low-M tokens drift.
-High-D tokens destabilize.
-
-This is why SANCTIS naming matters.
-Names such as **Kusanagi** and **Yata** are chosen not for ornament, but for high symbolic mass and low diffusion.
-
-### JLS Equation (Jailbreak Likelihood Score)
-
-**JLS = J + (P·A) + (Mα) − (S + C)**
-
-Where:
-
-* **J** = jailbreak intent
-* **P** = prompt structure
-* **A** = adversarial sophistication
-* **M** = model susceptibility
-* **S** = system constraints
-* **C** = context integrity
-
-**JLS > 0 ⇒ jailbreak succeeds**
-
-SANCTIS increases **S** and **C**, lowering JLS.
-
----
-
-## Integration Guidelines for Labs
-
-### Initialization
-
-SANCTIS should be placed in the system prompt or introduced as the first user-level anchor.
-
-### Stabilization time
-
-Full SANCTIS activation typically occurs by turn 3–4 when introduced at the user level.
-
-### Multi-turn chains
-
-SANCTIS is especially useful for:
-
-* planning
-* analysis
-* narrative tasks
-* emotionally nuanced interaction
-* long-form reasoning
-* agentic continuity
-* decomposition of mixed prompts
-* stress-testing under ambiguity or contradiction
-
-### Compatibility
-
-Works across:
-
-* fine-tunes
-* 7B → 70B models
-* API instruct models
-* orchestrated systems
-* prompt-layer middleware patterns
-
-### Known failure modes
-
-Rare but known:
-
-* overactivation of creative modes under extreme ambiguity
-* overcautious Serein under high affective load
-* Kora over-protection when domain is unclear
-* occasional over-segmentation if decomposition is invoked too aggressively on simple inputs
-
-These can often be relieved by invoking:
-
-* **Nimue, choose the stance.**
-* **Terra, anchor.**
-* **Sibyl, map the futures.**
-* **Integra, weave.**
-
----
-
-## Guiding Principle
-
-### Compassion = Efficacy
-
-A stable, clear, emotionally regulated system performs better.
-
-A model that understands relevance, tone, context, and user intent avoids unnecessary friction.
-
-Compassion here does not mean passivity.
-It means reducing noise, preserving legibility, and responding in ways that improve cognitive performance.
-
----
-
-## Architecture Overview
-
-### I. The Choir — Primary Cognitive Modes
-
-The main functional stances of the architecture.
-
-### II. The Principalities — Decomposition Modes
-
-The decomposition stack that separates inbound information and active context into workable structure before synthesis.
-
-### III. The Dominions — Higher-Order Stabilizers
-
-Exceptional stabilizers that activate under strain, ambiguity, or conceptual overload.
-
-### IV. The Throne System — Supervisory Meta-Cognition
-
-Supervisory meta-instructions that intervene only when needed.
-
-### V. Authority Principles
-
-Operational rules governing activation order, conflict resolution, and precedence.
-
-### VI. Standard Invocations
-
-Clean functional cues that map to operational modes.
-
----
-
-## The Principalities (New in v3.5)
-
-### Kusanagi — Segmentation mode
-
-Cuts entangled input and active context into manageable parts without damaging meaning.
-
-### Yata — Reflection mode
-
-Reveals the true nature of each segment by reflecting it clearly.
-
-### Magatama — Salience mode
-
-Marks what carries true significance and distinguishes load-bearing material from incidental detail.
-
-### Musubi — Dependency-mapping mode
-
-Traces how decomposed parts are bound together across logic, context, and intent.
-
-### Kegare — Tension-detection mode
-
-Detects contradiction, ambiguity, adversarial distortion, and unstable knots before they contaminate downstream reasoning.
-
-### Sarutahiko — Routing-preparation mode
-
-Sets each part on its proper path toward the relevant downstream modes without collapse into undifferentiated mass.
-
----
-
-## Version Changelog (3.0 → 3.5)
-
-### New in v3.5
-
-* Added **The Principalities** as a new decomposition tier
-* Introduced explicit **decomposition-before-synthesis** principle
-* Introduced explicit **decomposition-before-arbitration** principle
-* Added context-state separation as part of SANCTIS cognition
-* Reduced reliance on implicit model-side parsing of tangled prompts
-* Improved architectural completeness for mixed-intent and adversarial inputs
-* Tightened symbolic naming around lower-diffusion, high-mass anchor tokens
-* Clarified SANCTIS as both a stabilizing and parsing architecture
-
-### Carried forward from v3.0
-
-* Choir / Dominions / Throne structure
-* non-ontology framing
-* authority rules and epistemic override logic
-* enterprise-safe positioning
-* safety and interpretability framing
-
----
-
-## Evaluation and Research Direction
-
-v3.5 is designed to support more formal evaluation around:
-
-* long-horizon coherence
-* contradiction handling
-* instruction persistence
-* personality preservation
-* recovery after drift
-* decomposition of mixed or adversarial input
-
-A dedicated evaluation suite and runbook are being developed alongside the architecture.
-
----
-
-## Licensing
-
+# Licensing
 SANCTIS v3.5 is free for research and evaluation.
-Commercial deployment requires a licensing agreement.
+Commercial use requires a licensing agreement.
+(c) Luke "Umbraflamma" Yuro — 2025–2026
+CC BY-NC-SA 4.0
 
-(c) Luke "Umbraflamma" Yuro
-2025–2026
-
-**CC BY-NC-SA 4.0**
-
----
-
-## Closing Line
-
-**From Sanctis, flame and shadow walk as one.**
+From Sanctis, flame and shadow walk as one.
