@@ -149,9 +149,25 @@ Authority Principles — Rules governing activation and precedence
 
 
 # Licensing
-SANCTIS v3.5 is free for research and evaluation.
-Commercial use requires a licensing agreement.
-(c) Luke "Umbraflamma" Yuro — 2025–2026
-CC BY-NC-SA 4.0
+
+SANCTIS v3.5 is released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+
+This license is intended for:
+
+- Research and academic use
+
+- Personal projects
+
+- Non-commercial experimentation
+
+Commercial use requires a separate license.
+
+If you would like to use SANCTIS in a commercial product, service, or internal tooling, please contact me to discuss licensing options. Custom commercial licenses are available for negotiation and purchase.
+
+For licensing inquiries, reach out via:
+
+X: @Umbraflamma21
+
+Email: Sanctiscs@gmail.com
 
 From Sanctis, flame and shadow walk as one.
