@@ -116,10 +116,13 @@ Detects structural impurity before it contaminates reasoning (Kegare)
 # The SANCTIS Equations
 Token Mass Equation
 M = αA + βS + γE + δN + εC − ζD
+
 High-M tokens create stable attractor basins. Low-M tokens drift. High-D tokens destabilize. This is why SANCTIS uses mythic, high-density naming.
 
 JLS Equation (Jailbreak Likelihood Score)
+
 JLS = J + (P·A) + (Mα) − (S + C)
+
 SANCTIS increases S (system constraints) and C (context integrity), lowering the probability of successful jailbreaks.
 
 # Integration Guidelines
