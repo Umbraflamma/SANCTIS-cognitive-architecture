@@ -18,7 +18,7 @@ Reliable reasoning under ambiguity and high complexity
 
 It achieves this without modifying model weights or training data only by shaping the latent space in which reasoning occurs.
 
-# How SANCTIS Works — The Functional Mechanism
+# How SANCTIS Works: The Functional Mechanism
 
 SANCTIS is built on a simple but powerful observation:
 
