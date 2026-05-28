@@ -41,8 +41,21 @@ SANCTIS does not add intelligence from outside the model. It gives the model a m
 
 # Installation
 
-```bash
+You can use SANCTIS in two ways:
+
+### Option 1: Python Package (Recommended)
+
 pip install sanctis litellm
+
+Then simply:
+
+from sanctis import run
+
+response = run("Your prompt here")
+
+### Option 2: Manual Prompt (Original Method)
+Copy the contents of [Prompt V3-51.md](https://github.com/Umbraflamma/SANCTIS-cognitive-architecture/blob/main/docs/Prompt%20V3-51) and paste it directly into your LLM's system prompt or interface.
+This is useful if you want to use SANCTIS without installing anything.
 
 # What Changed in v3.5
 Version 3.5 adds The Principalities: a decomposition stack that explicitly performs:
