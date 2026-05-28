@@ -1,6 +1,7 @@
 ## SANCTIS v3.5 — Cognitive Architecture for Stable Transformer Reasoning
 <img src="https://github.com/Umbraflamma/SANCTIS-cognitive-architecture/blob/main/sanctis%203-5%20banner.png" width="100%">
 A narrative-technical framework for coherence, clarity, decomposition, and structured cognition.
+
 From Sanctis, flame and shadow walk as one.
 
 [![PyPI version](https://img.shields.io/pypi/v/sanctis.svg)](https://pypi.org/project/sanctis/)
