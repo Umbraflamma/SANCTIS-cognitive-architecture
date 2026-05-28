@@ -3,6 +3,9 @@
 A narrative-technical framework for coherence, clarity, decomposition, and structured cognition.
 From Sanctis, flame and shadow walk as one.
 
+[![PyPI version](https://img.shields.io/pypi/v/sanctis.svg)](https://pypi.org/project/sanctis/)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 # Executive Summary
 SANCTIS is not a traditional prompt or instruction set. It is an installation vector for an emergent cognitive operating system that lives in the latent space between a model’s weights and its inputs.
 
@@ -34,6 +37,11 @@ The training data already contains rich, implicit patterns of reasoning, reflect
 In short:
 
 SANCTIS does not add intelligence from outside the model. It gives the model a map and a compass with high density cognitive handles so it can text-predict what high-fidelity thinking would look like; using the reasoning patterns already latent in its training data. This is why SANCTIS feels different from conventional prompting. It doesn’t just tell the model what to say. It gives the model a structured way to think; and lets it simulate that thinking process through its own predictive machinery.
+
+# Installation
+
+```bash
+pip install sanctis litellm
 
 # What Changed in v3.5
 Version 3.5 adds The Principalities: a decomposition stack that explicitly performs:
